@@ -1,0 +1,52 @@
+Usuarios:
+Juan
+Maria
+Carlos
+Ana
+Javier
+Clara
+Tomas
+
+Residencias:
+Juan Manizales
+Maria Madrid
+Carlos Madrid
+Ana Bogota
+Javier Bogota
+Clara Madrid
+Tomas Madrid
+
+Comunidades:
+Python
+Gamers
+Java
+
+Amistades:
+Juan Maria
+Maria Carlos
+Carlos Ana
+Juan Carlos
+Javier Ana
+Javier Carlos
+Javier Juan
+Clara Maria
+Tomas Clara
+Tomas Maria
+
+Membresias:
+Juan Python
+Maria Python
+Carlos Gamers
+Ana Python
+Ana Gamers
+Javier Java
+Clara Java
+
+Familia:
+Juan Carlos Hermano Hermano
+Maria Ana Madre Hija
+Javier Carlos Padre Hijo
+Javier Juan Padre Hijo
+Clara Maria Sobrina Tia
+Tomas Clara Primo Prima
+Tomas Maria Sobrino Tia
